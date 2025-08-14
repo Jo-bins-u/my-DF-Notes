@@ -1,0 +1,62 @@
+VirusTotal Analysis Report
+📁 File Info
+
+Filename: LBPiy.exe
+
+Hashes:
+
+MD5: Not visible in screenshot
+
+SHA1: Not visible in screenshot
+
+SHA256: ae2a513b61febc225de374ab22dba754a3d38e49b7bbd442fe3f9bab16b8fb1
+
+🧪 Detection
+
+Detected by 56/72 engines
+
+Engine	Detection
+AhnLab-V3	Malware/Win.Kryptik.C5784104
+Alibaba	Trojan:MSIL/Taskun.cf3a01e2
+Arcabit	Trojan.Generic.D1B892
+Avast	Win32:MalwareX-gen [Pws]
+Avira	TR/AD.SnakeStealer.lzrbr
+BitDefender	Trojan.GenericKDZ.112786
+Bkav Pro	W32.Common.AD686AE9
+CrowdStrike Falcon	Win/malicious_confidence_100% (D)
+DeepInstinct	MALICIOUS
+DrWeb	Trojan.Packed2.49340
+Elastic	Malicious (High Confidence)
+eScan	Trojan.GenericKDZ.112786
+Sophos	Troj/Krypt-AQM
+Tencent	Malware.Win32.Generic.1499b3e7
+TrendMicro	TrojanSpy.Win32.NEGASTEAL.YXFG5Z
+WithSecure	Trojan.TR/AD.SnakeStealer.lzrbr
+ZoneAlarm	Troj/Krypt-AQM
+...	... (see screenshots for full list)
+
+📡 Network Indicators
+
+Not visible in provided screenshots.
+
+📊 Behavioral Summary
+
+Indicators in VT: peexe, assembly, long-sleeps, calls-wmi, clipboard, detect-debug-environment, spreader
+
+🗣️ Community Insight
+
+Community Score: -12
+
+Some user comments may indicate suspicious/malicious behavior (not captured in screenshots).
+
+🔐 Public Link
+
+VirusTotal Public Scan Link
+
+## 🖼️ Screenshots
+
+![VirusTotal Dashboard](Screenshot_2025-08-14_03-09-40.png)  
+*VT overview page showing SHA256 and detection count.*
+
+![VirusTotal Detections List](Screenshot_2025-08-14_03-10-15.png)  
+*List of AV engines detecting the sample.*
